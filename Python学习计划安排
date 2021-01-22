@@ -14,4 +14,11 @@
           
           1.20    Day 2 - Variables, Builtin Functions，主要将Python常用的内置函数熟悉记了一下，并通过实例验证每一个函数的实际输出效果，以及Data types变量类型。
           
-          1.21    Day 3- Operators Python的运算，  
+          1.21    Day 3- Operators Python的运算:
+                              Addition(+): a + b
+                              Subtraction(-): a - b
+                              Multiplication(*):a * b
+                              Division(/): a / b
+                              Modulus(%):a % b
+                              Floor division(//): a // b（向下取整）
+                              Exponentiation(**):a ** b （a的b次方）
