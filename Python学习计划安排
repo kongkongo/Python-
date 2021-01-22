@@ -22,3 +22,8 @@
                               Modulus(%):a % b
                               Floor division(//): a // b（向下取整）
                               Exponentiation(**):a ** b （a的b次方）
+          1.22    Day4  将string字符串，List列表和元组；主要通过实例了解到Python的字符串和列表与其他语言不同之处
+          
+          1.23    Day5  今天主要是集合set和字典dictionaries，对比于其他语言是一个相对新一些的概念，不过实用性很高
+          
+          1.24    
