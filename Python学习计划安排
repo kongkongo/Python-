@@ -14,7 +14,7 @@
           
           1.20    Day 2 - Variables, Builtin Functions，主要将Python常用的内置函数熟悉记了一下，并通过实例验证每一个函数的实际输出效果，以及Data types变量类型。
           
-          1.21    Day 3- Operators Python的运算:
+          1.21    Day 3- Operators Python的运算，float（浮点数），complex number（复数）
                               Addition(+): a + b
                               Subtraction(-): a - b
                               Multiplication(*):a * b
