@@ -142,9 +142,7 @@ The folder structure of your package should look like this:
     ├── __init__.py
     ├── arithmetic.py
     └── greet.py
-Now let's open the python interactive shell and try the package we have created:
 
-asabeneh@Asabeneh:~/Desktop/30Days
 
 
 
